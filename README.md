@@ -31,7 +31,8 @@ The DigitalOcean API asks you to supply the size_id, image_id, and region_id, bu
 don't know them and don't want to take the chance of hardcoding in case they're changed in the
 future? This method will allow you to just use the names of each.
 
-`config`
+##### config
+
 - `name`: Name you want to call the instance
 - `size`: The name of the size you'd like. i.e. "512MB", "1GB", "2GB", etc.
 - `image`: The name of the image you'd like. i.e. "Ubuntu 12.04 x64", "Docker on Ubuntu 13.04", etc.
