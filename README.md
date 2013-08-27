@@ -1,4 +1,4 @@
-# heroku.node
+# digitalocean.node
 
 [Digital Ocean API](https://api.digitalocean.com/) client for node.js
 
